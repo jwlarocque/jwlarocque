@@ -1,4 +1,4 @@
-### Hi there 👋
+More Git: [gitlab.com/jwlarocque](https://gitlab.com/jwlarocque)  
 
 <!--
 **jwlarocque/jwlarocque** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
